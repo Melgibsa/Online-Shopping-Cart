@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-label="Booking experience illustration">
+  <rect width="640" height="360" fill="#ecfdf5"/>
+  <circle cx="320" cy="180" r="112" fill="#a7f3d0"/>
+  <path d="M196 220h248l-26-82H222zm36-82v-32h68v32m44 82v-42m48 42v-42" fill="none" stroke="#059669" stroke-linecap="round" stroke-linejoin="round" stroke-width="14"/>
+  <path d="M270 180h22m42 0h22" stroke="#059669" stroke-linecap="round" stroke-width="12"/>
+</svg>

@@ -1,0 +1,2 @@
+ALTER TABLE sale_item
+ALTER COLUMN sale_id SET NOT NULL;
